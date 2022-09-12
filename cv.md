@@ -15,7 +15,7 @@ My name is Michael. I’m 25 years old. I was born in Minsk. I’m married and I
 * Git, GitHub
 * JavaScript(ES6+)
 * React
-### My Code
+## My Code
 ```
 function count (string) {  
   arr = string.split('');
@@ -32,7 +32,7 @@ function count (string) {
    return obj;
 }
 ```
-### Education
+## Education
 **Minsk State College of Electronics**
  
  * _Computer's operator and Production microelectronics_ 
@@ -40,7 +40,7 @@ function count (string) {
 **Udemy**
 1. _Web-developer (now)_
 2. _JS + React (now)_
-### English lavel
+## English lavel
 _Elementary(learn now)_
 
 
